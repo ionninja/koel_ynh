@@ -29,6 +29,15 @@ ynh_restore_file --origin_path="$data_dir" --not_mandatory
 chown -R $app:www-data "$data_dir"
 
 #=================================================
+# RESTORING MULTIMEDIA DIRECTORIES
+#================================================
+ynh_script_progression --message="Restoring multimedia directories..." --weight=1
+
+ynh_multimedia_build_main_dir
+ynh_multimedia_addfolder --source_dir="$data_dir" --dest_dir="$app"
+ynh_multimedia_addaccess $app
+
+#=================================================
 # RESTORE THE MYSQL DATABASE
 #=================================================
 ynh_script_progression --message="Restoring the MySQL database..." --weight=1
