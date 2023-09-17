@@ -1,7 +1,1 @@
-This is a dummy disclaimer to display after the install
-
-The app url is `__DOMAIN____PATH__`
-
-The app install dir is `__INSTALL_DIR__`
-
-The app id is `__ID__`
+Default admin credentials are `admin@koel.dev` as username and `KoelIsCool` as password. Log in, and change them!
