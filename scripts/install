@@ -47,7 +47,7 @@ ynh_add_config --template="env" --destination="$install_dir/.env"
 ynh_script_progression --message="Initializing Koel..." --weight=1
 
 pushd $install_dir
-	php$phpversion artisan koel:init --no-assets --no-interaction --quiet
+	ynh_exec_as $app php$phpversion artisan koel:init --no-assets --no-interaction --quiet
 popd
 
 #=================================================
