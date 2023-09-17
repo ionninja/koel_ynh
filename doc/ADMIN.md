@@ -2,3 +2,4 @@ __APP__'s data directory is located at `__DATA_DIR__` and symlinked to `/home/yu
 for easy access to users and other multimedia applications.
 
 You may change it in Koel's configuration page, for instance into `/home/yunohost.multimedia/share/Music`.
+If you change it, `__DATA_DIR__` will still be the directory to be backed up.
