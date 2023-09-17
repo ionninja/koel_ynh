@@ -4,8 +4,8 @@ packaging_format = 2
 
 id = "koel"
 name = "Koel"
-description.en = "A simple web-based personal audio streaming service written in Vue on the client side and Laravel on the server side. Targeting web developers, Koel embraces some of the more modern web technologies to do its job."
-description.fr = "Un simple service web de streaming audio personnel, écrit en Vue pour le client et en Laravel pour le serveur. Destiné aux développeurs web, Koel utilise certaines des technologies web les plus modernes pour accomplir son travail."
+description.en = "A simple web-based personal audio streaming service."
+description.fr = "Un simple service web de streaming audio personnel."
 
 version = "6.11.2~ynh1"
 
