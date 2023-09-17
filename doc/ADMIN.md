@@ -1,3 +1,5 @@
-This is a dummy admin doc for this app
+__APP__'s data directory is located at `__DATA_DIR__` and symlinked to `/home/yunohost.multimedia/__APP__`
+for easy access to users and other multimedia applications.
 
-The app install dir is `__INSTALL_DIR__`
+You may change it in Koel's configuration page, for instance into `/home/yunohost.multimedia/share/Music`.
+If you change it, `__DATA_DIR__` will still be the directory to be backed up.
