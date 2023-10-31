@@ -34,7 +34,7 @@ Targeting web developers, Koel embraces some of the more modern web technologies
 * Official app website: <https://koel.dev>
 * Official admin documentation: <https://docs.koel.dev>
 * Upstream app code repository: <https://github.com/koel/koel>
-* YunoHost documentation for this app: <https://yunohost.org/app_koel>
+* YunoHost Store: <https://apps.yunohost.org/app/koel>
 * Report a bug: <https://github.com/YunoHost-Apps/koel_ynh/issues>
 
 ## Developer info

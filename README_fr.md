@@ -34,7 +34,7 @@ Destiné aux développeurs web, Koel utilise certaines des technologies web les 
 * Site officiel de l’app : <https://koel.dev>
 * Documentation officielle de l’admin : <https://docs.koel.dev>
 * Dépôt de code officiel de l’app : <https://github.com/koel/koel>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_koel>
+* YunoHost Store: <https://apps.yunohost.org/app/koel>
 * Signaler un bug : <https://github.com/YunoHost-Apps/koel_ynh/issues>
 
 ## Informations pour les développeurs
