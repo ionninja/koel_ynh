@@ -47,6 +47,7 @@ ram.runtime = "50M"
         sha256 = "605913a2edfb21322dfd4692b83c8b90c805aad6c2f88831702f2b76356dc07d"
 
         autoupdate.strategy = "latest_github_release"
+        autoupdate.asset = "^koel-v.*tar.gz$"
 
     [resources.system_user]
     allow_email = true
