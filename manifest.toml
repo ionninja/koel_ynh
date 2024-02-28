@@ -44,7 +44,7 @@ ram.runtime = "50M"
 
         [resources.sources.main]
         url = "https://github.com/ionninja/koel/archive/refs/tags/v6.12.1.tar.gz"
-        sha256 = "d6526eea07374e20b6cd627126edaff92ff5881c51d1947705613a0d0b7061f2"
+        sha256 = "605913a2edfb21322dfd4692b83c8b90c805aad6c2f88831702f2b76356dc07d"
 
         autoupdate.strategy = "latest_github_release"
         autoupdate.asset = "^koel-v.*tar.gz$"
